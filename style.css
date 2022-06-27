@@ -1,0 +1,62 @@
+.ball {
+    display: inline-block;
+    border-radius: 50%;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+}
+
+#score {
+    margin: 5px;
+    text-align: center;
+    width: 30px;
+    height: 25px;
+}
+
+body {
+    text-align: center;
+    background-color: antiquewhite;
+    color: darkred;
+    font-size: 20px;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+#resultado {
+    display: flexbox;
+    justify-content: center;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+#rgb-color {
+    display: inline-block;
+    margin: 15px;
+    background-color: rgba(110, 31, 31, 0.411);
+    padding: 10px;
+    width: 150px;
+    border-radius: 25px;
+}
+
+#reset-game {
+    background-color: darkred;
+    padding: 10px;
+    color: antiquewhite;
+    border-radius: 25px;
+    font-size: 20px;
+    margin: 15px;
+}
+
+h1 {
+    margin: 15px;
+    font-size: 50px;
+}
+
+#balls-container {
+    border: 2px solid darkred;
+    width: 500px;
+    display: inline-block;
+}
