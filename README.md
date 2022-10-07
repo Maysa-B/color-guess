@@ -9,10 +9,4 @@ The most important features of this project are:
 2. If the player gets it right, ___3 points___ will be added to their score, and, once the page is updated, the score is ___zero___;
 3. To continue playing, press the `Generate new game` button.
 ---------------
-> It's important to highlight that only the documents produced by me are
-> in the repository. For some of the projects, Trybe, which is the
-> course that I'm following, gives us some functions/objects/styling
-> that helps us to conclude the project, so the repository may seem
-> incomplete.
----------------
 If you see something that can be improved, please contact me! All feedback is very welcome.:sparkles:
