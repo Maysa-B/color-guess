@@ -8,5 +8,10 @@ The most important features of this project are:
 1. The game will generate a code _rgb_ (red, green, and blue), and from that, the user must select the color corresponding to this code;
 2. If the player gets it right, ___3 points___ will be added to their score, and, once the page is updated, the score is ___zero___;
 3. To continue playing, press the `Generate new game` button.
+
+### Deploy 
+
+If you are interested in seeing the final result you can access by this [link](https://color-guess-maysa-b.vercel.app/) the final result.
+
 ---------------
 If you see something that can be improved, please contact me! All feedback is very welcome.:sparkles:
